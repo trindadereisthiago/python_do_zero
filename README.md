@@ -48,7 +48,7 @@ python nome_do_arquivo.py
 
 ## 🛠 Tecnologias
 
-- Python 3.x
+- Python 3.14
 - Visual Studio Code
 - Git
 - GitHub
